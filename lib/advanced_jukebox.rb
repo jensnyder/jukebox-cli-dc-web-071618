@@ -23,8 +23,11 @@ end
 def list(my_songs)
   #this method is different! Collect the keys of the my_songs hash and 
   #list the songs by name
-  song_names = my_songs.keys
-  
+  songs = my_songs.keys
+  songs.each_with_index do |song,index|
+    number = index + 1
+    puts "#{number}. #{songs[index]}"
+  end
 end
 
 
