@@ -2,7 +2,6 @@
 
 require_relative "../lib/advanced_jukebox"
 
-
 my_songs = {
  "Go Go GO" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/01.mp3',
  "LiberTeens" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/02.mp3',
