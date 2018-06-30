@@ -2,14 +2,14 @@
 #make sure to edit the value of each key to replace < path to this directory >
 #with the correct path to this directory on your computer
 
-my_songs = {
- "Go Go GO" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/01.mp3',
- "LiberTeens" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/02.mp3',
- "Hamburg" =>  '/home/jensnyder/jukebox-cli/audio/Emerald-Park/03.mp3',
- "Guiding Light" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/04.mp3',
- "Wolf" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/05.mp3',
- "Blue" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/06.mp3',
- "Graduation Failed" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/07.mp3'
+#my_songs = {
+ #"Go Go GO" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/01.mp3',
+ #"LiberTeens" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/02.mp3',
+ #"Hamburg" =>  '/home/jensnyder/jukebox-cli/audio/Emerald-Park/03.mp3',
+ #"Guiding Light" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/04.mp3',
+ #"Wolf" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/05.mp3',
+ #"Blue" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/06.mp3',
+ #"Graduation Failed" => '/home/jensnyder/jukebox-cli/audio/Emerald-Park/07.mp3'
  }
 
 def help
